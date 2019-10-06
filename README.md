@@ -9,8 +9,8 @@ I am learning MSBI and Power BI
 
 <b>Achievements</b>
 
-I was awarded as the best performer from my Previous employer, Vitamap Solutions.
-I have fixed multiple complex issues on SQL queries.
+I was awarded as the best performer by my Previous employer, Vitamap Solutions.<br>
+I have fixed multiple complex issues on SQL queries.<br><br><br>
 
 <b>Significant Projects</b>
 <br><br>
@@ -58,3 +58,10 @@ ASP .Net, Sql 2005
 •	Design<br>
 •	Development<br>
 •	Testing<br>
+
+<br><b>EDUCATIONAL QUALIFICATIONS</b><br>
+     
+•	Bachelor of Engineering in Computer science & Engineering from Adichunchanagiri Institute of Technology, Karnataka, India<br>
+•	XII: From M.E.S.S.S.M P.U College, KArnataka, India <br>
+•	X: From St. Joseph’s girls’ High school, Karnataka, India
+
